@@ -1,0 +1,27 @@
+{
+  "name": "unir-docker-practica",
+  "version": "0.0.0",
+  "description": "Práctica de UNIR de Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhqc/unir-docker-practica.git"
+  },
+  "keywords": [
+    "docker",
+    "express"
+  ],
+  "author": "Victor Hugo Quiroz <victorhqc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorhqc/unir-docker-practica/issues"
+  },
+  "homepage": "https://github.com/victorhqc/unir-docker-practica#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
